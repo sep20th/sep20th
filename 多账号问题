@@ -6,3 +6,5 @@ $ git remote add origin git@sep20th.github.com:sep20th/xxx.git
 $ git push origin master
 
 //后续添加版本时则直接Push即可
+参考:http://www.jianshu.com/p/04e9a885c5c8
+参考:http://www.cnblogs.com/popfisher/p/5731232.html
