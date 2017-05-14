@@ -3,3 +3,6 @@ sep20th首次推送时:
 $ git remote rm origin
 添加新的远程主机名(config中设定的主机名)
 $ git remote add origin git@sep20th.github.com:sep20th/xxx.git
+$ git push origin master
+
+//后续添加版本时则直接Push即可
