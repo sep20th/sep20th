@@ -1,7 +1,7 @@
 sep20th首次推送时:
 //先移除远程主机名
 $ git remote rm origin
-添加新的远程主机名(config中设定的主机名-#注意git@后一定跟sep20th;)
+#添加新的远程主机名(config中设定的主机名-#注意git@后一定跟sep20th;)
 $ git remote add origin git@sep20th.github.com:sep20th/xxx.git
 $ git push origin master
 
